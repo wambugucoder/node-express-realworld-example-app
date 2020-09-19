@@ -41,7 +41,7 @@
     "passport-local": "1.0.0",
     "request": "2.82.0",
     "slug": "0.9.2",
-    "underscore": "1.8.3",
+    "underscore": "1.11.0",
     "snyk": "^1.398.1"
   },
   "devDependencies": {
