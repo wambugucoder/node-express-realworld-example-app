@@ -40,7 +40,7 @@
     "snyk": "^1.401.0"
   },
   "devDependencies": {
-    "newman": "^3.8.2",
+    "newman": "^3.10.0",
     "nodemon": "^1.11.0"
   },
   "snyk": true
